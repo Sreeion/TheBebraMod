@@ -1,0 +1,17 @@
+{
+  "item.thebebra.bebronium": "Беброниум",
+  "item.thebebra.raw_bebronium": "Рудный Беброниум",
+  "item.thebebra.bebronium_sword": "Беброниумовый меч",
+  "item.thebebra.bebronium_shovel": "Беброниумовая лопата",
+  "item.thebebra.bebronium_pickaxe": "Беброниумовая кирка",
+  "item.thebebra.bebronium_axe": "Беброниумовый топор",
+  "item.thebebra.bebronium_hoe": "Беброниумовая мотыга",
+  "item.thebebra.bebronium_boots": "Беброниумовые ботинки",
+  "item.thebebra.bebronium_leggings": "Беброниумовые поножи",
+  "item.thebebra.bebronium_chestplate": "Беброниумовый нагрудник",
+  "item.thebebra.bebronium_helmet": "Беброниумовый шлем",
+
+  "tabs.thebebra": "Бебра",
+
+  "thebebra.description": "Добавляет различные инструменты, оружие и т. д."
+}

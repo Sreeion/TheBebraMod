@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "thebebra:raw_bebronium"
+    },
+    "result": "thebebra:bebronium",
+    "experience": 5,
+    "cookingtime": 250
+}

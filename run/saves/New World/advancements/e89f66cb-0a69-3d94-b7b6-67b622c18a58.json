@@ -1,0 +1,22 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-04-14 21:12:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-04-14 21:12:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2024-04-14 21:14:48 +0300",
+      "minecraft:snowy_plains": "2024-04-14 21:12:09 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

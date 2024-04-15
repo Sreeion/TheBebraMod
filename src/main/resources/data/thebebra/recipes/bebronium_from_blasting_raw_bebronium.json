@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "thebebra:raw_bebronium"
+    },
+    "result": "thebebra:bebronium",
+    "experience": 5,
+    "cookingtime": 170
+}
