@@ -9,6 +9,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import org.main.thebebra.content.items.RegistryItems;
+import org.main.thebebra.content.blocks.RegistryBlocks;
 
 public class TabsCreative {
     public static final ItemGroup THE_BEBRA = Registry.register(Registries.ITEM_GROUP,
@@ -27,7 +28,13 @@ public class TabsCreative {
                                                                             entries.add(RegistryItems.Bebronium);
                                                                             entries.add(RegistryItems.Bebronium_RAW);
                                                                             entries.add(RegistryItems.Hipepsium_SWORD);
+                                                                            entries.add(RegistryItems.Hipepsium_SHOVEL);
+                                                                            entries.add(RegistryItems.Hipepsium_PICKAXE);
+                                                                            entries.add(RegistryItems.Hipepsium_AXE);
+                                                                            entries.add(RegistryItems.Hipepsium_HOE);
                                                                             entries.add(RegistryItems.Hipepsium);
+                                                                            entries.add(RegistryItems.Hipepsium_RAW);
+                                                                            entries.add(RegistryBlocks.TestBLOCK);
 
                                                                         }).build());
     public static void register() {

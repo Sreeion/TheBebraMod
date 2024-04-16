@@ -11,9 +11,10 @@
       <change afterPath="$PROJECT_DIR$/run/mods/modmenu-7.2.2.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/run/mods/moonlight-1.20-2.11.12-fabric.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/main/thebebra/mixins/AlphaWarn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/main/thebebra/mixins/AlphaWarn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/thebebra/lang/en_us.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/lang/en_us.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/thebebra/lang/ru_ru.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/lang/ru_ru.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/main/thebebra/TheBebra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/main/thebebra/TheBebra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/TabsCreative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/TabsCreative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/blocks/RegistryBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/blocks/RegistryBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/items/RegistryItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/items/RegistryItems.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713220281592</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update">
+      <option name="closed" value="true" />
+      <created>1713288974027</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713288974027</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,6 +321,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
