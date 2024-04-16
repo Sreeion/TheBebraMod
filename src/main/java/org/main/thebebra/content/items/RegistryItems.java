@@ -16,7 +16,7 @@ public class RegistryItems {
     public static final Item Bebronium_SWORD = registerItem("bebronium_sword", new SwordItem(CustomToolMaterial.BEBRONIUM, 9, -2.7F, new FabricItemSettings()));
     public static final Item Bebronium_SHOVEL = registerItem("bebronium_shovel", new ShovelItem(CustomToolMaterial.BEBRONIUM, 7.5F, -3F, new FabricItemSettings()));
     public static final Item Bebronium_PICKAXE = registerItem("bebronium_pickaxe", new PickaxeItem(CustomToolMaterial.BEBRONIUM, 7, -2.8F, new FabricItemSettings()));
-    public static final Item Bebronium_AXE = registerItem("bebronium_axe", new AxeItem(CustomToolMaterial.BEBRONIUM, 11, -3.5F, new FabricItemSettings()));
+    public static final Item Bebronium_AXE = registerItem("bebronium_axe", new AxeItem(CustomToolMaterial.BEBRONIUM, 10, -3.5F, new FabricItemSettings()));
     public static final Item Bebronium_HOE = registerItem("bebronium_hoe", new HoeItem(CustomToolMaterial.BEBRONIUM, 0, 0, new FabricItemSettings()));
     public static final Item Bebronium_BOOTS = registerItem("bebronium_boots", new ArmorItem(CustomArmorMaterial.BEBRONIUM, ArmorItem.Type.BOOTS, new FabricItemSettings()));
     public static final Item Bebronium_LEGGINGS = registerItem("bebronium_leggings", new ArmorItem(CustomArmorMaterial.BEBRONIUM, ArmorItem.Type.LEGGINGS, new FabricItemSettings()));

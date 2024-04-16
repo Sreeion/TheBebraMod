@@ -5,9 +5,7 @@
   "name": "The Bebra",
   "description": "Adds various tools, weapons, etc.",
   "authors": ["Sreeion", "HiPepsi"],
-  "contact": {
-    "homepage": "https://clck.ru/3A5Gn3"
-  },
+  "contact": {},
   "license": "MIT License",
   "icon": "assets/thebebra/icon.png",
   "environment": "*",
@@ -19,6 +17,9 @@
       "org.main.thebebra.TheBebra"
     ]
   },
+  "mixins": [
+    "thebebra.mixins.json"
+  ],
   "depends": {
     "fabricloader": ">=${loader_version}",
     "fabric": "*",

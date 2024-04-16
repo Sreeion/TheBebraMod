@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.main.thebebra.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "TheBebraMixins",
+    "AlphaWarn"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

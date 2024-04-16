@@ -1,6 +1,8 @@
 package org.main.thebebra;
 
 import net.fabricmc.api.ModInitializer;
+import net.fabricmc.fabric.api.command.v2.CommandRegistrationCallback;
+import net.minecraft.server.command.CommandManager;
 import org.main.thebebra.content.items.RegistryItems;
 import org.main.thebebra.content.TabsCreative;
 import org.slf4j.Logger;
