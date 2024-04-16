@@ -13,5 +13,6 @@
 
   "tabs.thebebra": "The Bebra",
 
-  "gui.thebebra.alphawarn": "The Bebra mod is currently under development."
+  "gui.thebebra.alphawarn1": "WARNING:",
+  "gui.thebebra.alphawarn2": "The Bebra mod is currently under development."
 }
