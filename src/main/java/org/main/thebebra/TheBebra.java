@@ -1,7 +1,6 @@
 package org.main.thebebra;
 
 import net.fabricmc.api.ModInitializer;
-import net.minecraft.server.command.TestCommand;
 import org.main.thebebra.content.blocks.RegistryBlocks;
 import org.main.thebebra.content.items.RegistryItems;
 import org.main.thebebra.content.TabsCreative;
