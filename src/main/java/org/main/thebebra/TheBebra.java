@@ -1,9 +1,10 @@
 package org.main.thebebra;
 
 import net.fabricmc.api.ModInitializer;
-import org.main.thebebra.content.blocks.RegistryBlocks;
-import org.main.thebebra.content.items.RegistryItems;
+import org.main.thebebra.content.blocks.Blocks;
+import org.main.thebebra.content.items.Items;
 import org.main.thebebra.content.TabsCreative;
+import org.main.thebebra.util.Registry;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -17,7 +18,8 @@ public class TheBebra implements ModInitializer {
     @Override
     public void onInitialize() {
         TabsCreative.register();
-        RegistryItems.register();
-        RegistryBlocks.register();
+        Items.register();
+        Blocks.register();
+        Registry.RegisterMod();
     }
 }
