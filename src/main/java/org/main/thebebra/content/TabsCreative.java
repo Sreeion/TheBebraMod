@@ -15,7 +15,7 @@ public class TabsCreative {
     public static final ItemGroup THE_BEBRA = Registry.register(Registries.ITEM_GROUP,
                                                                 new Identifier(TheBebra.MOD_ID, "thebebra"),
                                                                 FabricItemGroup.builder().displayName(Text.translatable("tabs.thebebra"))
-                                                                        .icon(() -> new ItemStack(Items.Bebronium_SWORD)).entries((displayContext, entries) -> {
+                                                                        .icon(() -> new ItemStack(Items.Hipepsium_SWORD)).entries((displayContext, entries) -> {
                                                                             entries.add(Items.Bebronium_SWORD);
                                                                             entries.add(Items.Bebronium_SHOVEL);
                                                                             entries.add(Items.Bebronium_PICKAXE);
@@ -34,7 +34,8 @@ public class TabsCreative {
                                                                             entries.add(Items.Hipepsium_HOE);
                                                                             entries.add(Items.Hipepsium);
                                                                             entries.add(Items.Hipepsium_RAW);
-                                                                            entries.add(Blocks.TestBLOCK);
+                                                                            entries.add(Blocks.Bebronium_ORE);
+                                                                            entries.add(Blocks.Deepslate_Bebronium_ORE);
 
                                                                         }).build());
     public static void register() {

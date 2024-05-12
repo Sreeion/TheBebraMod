@@ -1,7 +1,7 @@
 {
   "item.thebebra.bebronium": "Bebronium",
   "item.thebebra.raw_bebronium": "Raw Bebronium",
-  "item.thebebra.bebronium_sword": "Bebronium Sword",
+  "item.thebebra.bebronium_sword": "Bebronium Blade",
   "item.thebebra.bebronium_shovel": "Bebronium Shovel",
   "item.thebebra.bebronium_pickaxe": "Bebronium Pickaxe",
   "item.thebebra.bebronium_axe": "Bebronium Axe",
@@ -10,6 +10,11 @@
   "item.thebebra.bebronium_leggings": "Bebronium Leggings",
   "item.thebebra.bebronium_chestplate": "Bebronium Chestplate",
   "item.thebebra.bebronium_helmet": "Bebronium Helmet",
+  "item.thebebra.hipepsium_sword": "Hipepsium Sword",
+  "item.thebebra.hipepsium_shovel": "Hipepsium Shovel",
+  "item.thebebra.hipepsium_pickaxe": "Hipepsium Pickaxe",
+  "item.thebebra.hipepsium_axe": "Hipepsium Axe",
+  "item.thebebra.hipepsium_hoe": "Hipepsium Hoe",
 
   "tabs.thebebra": "The Bebra",
 

@@ -7,8 +7,8 @@ import org.main.thebebra.content.items.Items;
 import java.util.function.Supplier;
 
 public enum CustomToolMaterial implements ToolMaterial {
-    BEBRONIUM(4, 2866, 11.5F, 0, 20, () -> Ingredient.ofItems(Items.Bebronium)),
-    HIPEPSIUM(5, 3412, 13F, 0, 23, () -> Ingredient.ofItems(Items.Hipepsium));
+    BEBRONIUM(4, 2866, 12.5F, 0, 18, () -> Ingredient.ofItems(Items.Bebronium)),
+    HIPEPSIUM(5, 3412, 15F, 0, 23, () -> Ingredient.ofItems(Items.Hipepsium));
     public final int miningLevel;
     public final int itemDurability;
     public final float miningSpeed;

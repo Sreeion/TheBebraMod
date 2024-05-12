@@ -1,7 +1,7 @@
 {
   "item.thebebra.bebronium": "Беброниум",
   "item.thebebra.raw_bebronium": "Рудный Беброниум",
-  "item.thebebra.bebronium_sword": "Беброниумовый меч",
+  "item.thebebra.bebronium_sword": "Беброниумовый клинок",
   "item.thebebra.bebronium_shovel": "Беброниумовая лопата",
   "item.thebebra.bebronium_pickaxe": "Беброниумовая кирка",
   "item.thebebra.bebronium_axe": "Беброниумовый топор",
@@ -10,6 +10,11 @@
   "item.thebebra.bebronium_leggings": "Беброниумовые поножи",
   "item.thebebra.bebronium_chestplate": "Беброниумовый нагрудник",
   "item.thebebra.bebronium_helmet": "Беброниумовый шлем",
+  "item.thebebra.hipepsium_sword": "Хайпепсиумовый меч",
+  "item.thebebra.hipepsium_shovel": "Хайпепсиумовая лопата",
+  "item.thebebra.hipepsium_pickaxe": "Хайпепсиумовая кирка",
+  "item.thebebra.hipepsium_axe": "Хайпепсиумовый топор",
+  "item.thebebra.hipepsium_hoe": "Хайпепсиумовая мотыга",
 
   "tabs.thebebra": "Бебра",
 

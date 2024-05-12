@@ -11,7 +11,8 @@ import net.minecraft.util.Identifier;
 import org.main.thebebra.TheBebra;
 
 public class Blocks {
-    public static final Block TestBLOCK = registerBlock("test_block", new Block(FabricBlockSettings.copyOf(net.minecraft.block.Blocks.IRON_BLOCK)));
+    public static final Block Bebronium_ORE = registerBlock("bebronium_ore", new Block(FabricBlockSettings.copyOf(net.minecraft.block.Blocks.DIAMOND_ORE)));
+    public static final Block Deepslate_Bebronium_ORE = registerBlock("deepslate_bebronium_ore", new Block(FabricBlockSettings.copyOf(net.minecraft.block.Blocks.DEEPSLATE_DIAMOND_ORE)));
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
         return Registry.register(Registries.BLOCK, new Identifier(TheBebra.MOD_ID, name), block);

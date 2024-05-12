@@ -4,22 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="717df983-b8a1-446c-9108-50738f706f0b" name="Changes" comment="Update">
+    <list default="true" id="717df983-b8a1-446c-9108-50738f706f0b" name="Changes" comment="Update 1.20.1">
       <change afterPath="$PROJECT_DIR$/run/mods/Jade-1.20-fabric-11.8.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/run/mods/classicbar-1.20.1-2.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/run/mods/dummmmmmy-1.20-1.8.14-fabric.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/run/mods/jei-1.20.1-fabric-15.3.0.4.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/run/mods/modmenu-7.2.2.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/run/mods/moonlight-1.20-2.11.12-fabric.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/items/HipepsiumFire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/main/thebebra/util/Registry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/blockstates/bebronium_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/blockstates/deepslate_bebronium_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/models/block/bebronium_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/models/block/deepslate_bebronium_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/models/item/bebronium_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/models/item/deepslate_bebronium_ore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/models/item/hipepsium_axe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/models/item/hipepsium_hoe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/models/item/hipepsium_pickaxe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/models/item/hipepsium_shovel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/models/item/hipepsium_sword.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/textures/block/bebronium_ore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/textures/block/deepslate_bebronium_ore.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/textures/item/bebronium_sword_old.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/textures/item/hipepsium_axe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/textures/item/hipepsium_hoe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/textures/item/hipepsium_pickaxe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/textures/item/hipepsium_shovel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/textures/item/hipepsium_sword.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/main/thebebra/TheBebra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/main/thebebra/TheBebra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/main/thebebra/commands/TestCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/main/thebebra/commands/TestCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/CustomArmorMaterial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/CustomArmorMaterial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/CustomToolMaterial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/CustomToolMaterial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/TabsCreative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/TabsCreative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/items/RegistryItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/items/Items.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/blocks/Blocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/main/thebebra/content/blocks/Blocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/thebebra/lang/en_us.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/lang/en_us.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/thebebra/lang/ru_ru.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/lang/ru_ru.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/thebebra/textures/item/bebronium_sword.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/assets/thebebra/textures/item/bebronium_sword.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,7 +158,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "1.20.1",
-    "last_opened_file_path": "G:/PluginsMinecraft/TheBebra/run/mods",
+    "last_opened_file_path": "G:/PluginsMinecraft/TheBebra/src/main/resources/assets/thebebra/models/item",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -154,18 +170,18 @@
       <recent name="org.main.thebebra.content" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\PluginsMinecraft\TheBebra\run\mods" />
       <recent name="G:\PluginsMinecraft\TheBebra\src\main\resources\assets\thebebra\models\item" />
+      <recent name="G:\PluginsMinecraft\TheBebra\src\main\resources\assets\thebebra\blockstates" />
+      <recent name="G:\PluginsMinecraft\TheBebra\src\main\resources\assets\thebebra\models\block" />
+      <recent name="G:\PluginsMinecraft\TheBebra\run\mods" />
       <recent name="G:\PluginsMinecraft\TheBebra\src\main\resources\data\thebebra\recipes" />
-      <recent name="G:\PluginsMinecraft\TheBebra\src\main\resources\assets\thebebra\textures\item" />
-      <recent name="G:\PluginsMinecraft\TheBebra\src\main\resources\assets\thebebra\lang" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\PluginsMinecraft\TheBebra\src\main\resources\assets\thebebra\textures\block" />
       <recent name="G:\PluginsMinecraft\TheBebra\run\mods" />
       <recent name="G:\PluginsMinecraft\TheBebra\src\main\resources\assets\thebebra\textures\item" />
       <recent name="G:\PluginsMinecraft\TheBebra\src\main\resources\data\thebebra\recipes" />
       <recent name="G:\PluginsMinecraft\TheBebra\src\main\resources\data\thebebra\recipes\Item" />
-      <recent name="G:\PluginsMinecraft\TheBebra\src\main\resources\data\thebebra\recipes\Smelting" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Minecraft Client">
@@ -338,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714429775218</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update 1.20.1">
+      <option name="closed" value="true" />
+      <created>1714721793769</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714721793769</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -358,6 +382,7 @@
     </ignored-roots>
     <MESSAGE value="test" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Update 1.20.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 1.20.1" />
   </component>
 </project>
