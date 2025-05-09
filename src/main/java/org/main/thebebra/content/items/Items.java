@@ -9,7 +9,7 @@ import net.minecraft.util.Identifier;
 import org.main.thebebra.content.CustomArmorMaterial;
 import org.main.thebebra.content.CustomToolMaterial;
 
-public class RegistryItems {
+public class Items {
     // Bebronium set
     public static final Item Bebronium = registerItem("bebronium", new Item(new FabricItemSettings()));
     public static final Item Bebronium_RAW = registerItem("raw_bebronium", new Item(new FabricItemSettings()));

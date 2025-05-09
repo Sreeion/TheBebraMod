@@ -8,33 +8,34 @@ import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
-import org.main.thebebra.content.items.RegistryItems;
-import org.main.thebebra.content.blocks.RegistryBlocks;
+import org.main.thebebra.content.items.Items;
+import org.main.thebebra.content.blocks.Blocks;
 
 public class TabsCreative {
     public static final ItemGroup THE_BEBRA = Registry.register(Registries.ITEM_GROUP,
                                                                 new Identifier(TheBebra.MOD_ID, "thebebra"),
                                                                 FabricItemGroup.builder().displayName(Text.translatable("tabs.thebebra"))
-                                                                        .icon(() -> new ItemStack(RegistryItems.Bebronium_SWORD)).entries((displayContext, entries) -> {
-                                                                            entries.add(RegistryItems.Bebronium_SWORD);
-                                                                            entries.add(RegistryItems.Bebronium_SHOVEL);
-                                                                            entries.add(RegistryItems.Bebronium_PICKAXE);
-                                                                            entries.add(RegistryItems.Bebronium_AXE);
-                                                                            entries.add(RegistryItems.Bebronium_HOE);
-                                                                            entries.add(RegistryItems.Bebronium_HELMET);
-                                                                            entries.add(RegistryItems.Bebronium_CHESTPLACE);
-                                                                            entries.add(RegistryItems.Bebronium_LEGGINGS);
-                                                                            entries.add(RegistryItems.Bebronium_BOOTS);
-                                                                            entries.add(RegistryItems.Bebronium);
-                                                                            entries.add(RegistryItems.Bebronium_RAW);
-                                                                            entries.add(RegistryItems.Hipepsium_SWORD);
-                                                                            entries.add(RegistryItems.Hipepsium_SHOVEL);
-                                                                            entries.add(RegistryItems.Hipepsium_PICKAXE);
-                                                                            entries.add(RegistryItems.Hipepsium_AXE);
-                                                                            entries.add(RegistryItems.Hipepsium_HOE);
-                                                                            entries.add(RegistryItems.Hipepsium);
-                                                                            entries.add(RegistryItems.Hipepsium_RAW);
-                                                                            entries.add(RegistryBlocks.TestBLOCK);
+                                                                        .icon(() -> new ItemStack(Items.Hipepsium_SWORD)).entries((displayContext, entries) -> {
+                                                                            entries.add(Items.Bebronium_SWORD);
+                                                                            entries.add(Items.Bebronium_SHOVEL);
+                                                                            entries.add(Items.Bebronium_PICKAXE);
+                                                                            entries.add(Items.Bebronium_AXE);
+                                                                            entries.add(Items.Bebronium_HOE);
+                                                                            entries.add(Items.Bebronium_HELMET);
+                                                                            entries.add(Items.Bebronium_CHESTPLACE);
+                                                                            entries.add(Items.Bebronium_LEGGINGS);
+                                                                            entries.add(Items.Bebronium_BOOTS);
+                                                                            entries.add(Items.Bebronium);
+                                                                            entries.add(Items.Bebronium_RAW);
+                                                                            entries.add(Items.Hipepsium_SWORD);
+                                                                            entries.add(Items.Hipepsium_SHOVEL);
+                                                                            entries.add(Items.Hipepsium_PICKAXE);
+                                                                            entries.add(Items.Hipepsium_AXE);
+                                                                            entries.add(Items.Hipepsium_HOE);
+                                                                            entries.add(Items.Hipepsium);
+                                                                            entries.add(Items.Hipepsium_RAW);
+                                                                            entries.add(Blocks.Bebronium_ORE);
+                                                                            entries.add(Blocks.Deepslate_Bebronium_ORE);
 
                                                                         }).build());
     public static void register() {

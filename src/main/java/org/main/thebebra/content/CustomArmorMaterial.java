@@ -6,13 +6,13 @@ import net.minecraft.item.ArmorItem;
 import net.minecraft.item.ArmorMaterial;
 import net.minecraft.recipe.Ingredient;
 import net.minecraft.sound.SoundEvent;
-import org.main.thebebra.content.items.RegistryItems;
+import org.main.thebebra.content.items.Items;
 
 import java.util.function.Supplier;
 
 public enum CustomArmorMaterial implements ArmorMaterial {
     BEBRONIUM("bebronium", 42, new int[] {5, 10, 8, 5}, 20,
-              SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 3.5F, 0.15F, () -> Ingredient.ofItems(RegistryItems.Bebronium));
+              SoundEvents.ITEM_ARMOR_EQUIP_NETHERITE, 3.5F, 0.15F, () -> Ingredient.ofItems(Items.Bebronium));
     private final String name;
     private final int durabilityMultiplier;
     private final int[] protectionAmounts;

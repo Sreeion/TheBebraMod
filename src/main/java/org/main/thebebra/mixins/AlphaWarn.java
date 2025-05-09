@@ -19,7 +19,7 @@ public abstract class AlphaWarn extends Screen {
         super(title);
     }
 
-    @Inject(method = "render", at = @At("HEAD"), cancellable = true)
+    @Inject(method = "render", at = @At("HEAD"))
     public void render(DrawContext context, int mouseX, int mouseY, float delta, CallbackInfo ci) {
         super.render(context, mouseX, mouseY, delta);
         context.drawCenteredTextWithShadow(textRenderer, Text.translatable("gui.thebebra.alphawarn1"), width / 2, height / 2 + 102, 0xff0000);
